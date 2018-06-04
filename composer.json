@@ -1,7 +1,7 @@
 {
   "name": "forrina/framework",
   "description": "Forrina Framework",
-  "homepage": "https://github.com/forrina-framework/framework",
+  "homepage": "https://github.com/alirezarahmani/framework",
   "require": {
     "php": "7.*",
     "ext-mysqlnd": "*",
