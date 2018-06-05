@@ -10,7 +10,6 @@
     "ext-json": "*",
     "ext-apcu": "*",
     "ext-xml": "*",
-    "ext-geoip": "*",
     "ext-intl": "*",
     "ext-mbstring": "*",
     "composer/composer": "*",
